@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "@coreui/coreui/scss/coreui";
+
+body {
+    background: rgb(253, 229, 206, 1);
+        // background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+        background: linear-gradient(90deg, 
+        rgba(253, 229, 206, 1) 0%, 
+        rgba(252, 199, 150, 1) 25%,
+        rgba(241, 161, 85, 1) 50%,
+        rgba(242, 129, 135, 1) 75%,
+        rgba(241, 111, 161, 1) 100%);
+}
